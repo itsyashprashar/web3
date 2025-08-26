@@ -50,14 +50,6 @@ AI-powered Matching: Machine learning algorithms for optimal supplier-buyer matc
 Global Standards Integration: Support for international procurement standards and certifications
 
 Contract Address Details
-ST2RW1RNK77MKV6BN7KTDQ51AJVP8X15QW6NW0SQR.procurementMarketplace
-Contract address information will be added upon deployment
-
-Testnet Address: [To be added]
-Mainnet Address: [To be added]
-Contract Name: procurement-marketplace
-Network: Stacks Blockchain
-<img width="490" height="582" alt="Screenshot 2025-08-26 114419" src="https://github.com/user-attachments/assets/1e269590-3925-48fd-839a-197c7f8a7d9d" />
-
+<img width="1919" height="865" alt="Screenshot 2025-08-26 145200" src="https://github.com/user-attachments/assets/bed343d7-6b15-43fc-a3dd-c4ff4e69a29f" />
 
 This project is part of the decentralized procurement ecosystem, promoting transparency and efficiency in business-to-business transactions.
